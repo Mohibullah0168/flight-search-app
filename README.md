@@ -2,7 +2,7 @@
 2. git checkout feature/filter
 3. npm install
 4. npm start
-5. In the Search Form,I Used Dac as current location airport name and FCA for my destination airport name.
+5. In the Search Form,I Used DAC as current location airport name and FCO for my destination airport name.
 
 Here is my two repository link
 1.https://github.com/Mohibullah0168/React-js-Task
